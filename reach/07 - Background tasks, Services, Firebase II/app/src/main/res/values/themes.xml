@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Shop" parent="Theme.MaterialComponents.Light">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:spinnerItemStyle">
+            @style/spinnerItemStyle
+        </item>
+
+        <!-- For each individual Spinner list item once clicked on -->
+        <item name="android:spinnerDropDownItemStyle">
+            @style/spinnerDropDownItemStyle
+        </item>
+    </style>
+
+    <style name="spinnerItemStyle">
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:fontFamily">@font/courierprime_regular</item>
+    </style>
+
+    <style name="spinnerDropDownItemStyle">
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:fontFamily">@font/courierprime_regular</item>
+    </style>
+
+    <style name="ItemDetailText" parent="TextAppearance.AppCompat.Subhead"/>
+    <style name="ItemTitle" parent="TextAppearance.AppCompat.Headline"/>
+    <style name="ItemDetailTitle" parent="TextAppearance.AppCompat.Headline"/>
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:fontFamily">@font/courierprime_bold</item>
+    </style>
+</resources>

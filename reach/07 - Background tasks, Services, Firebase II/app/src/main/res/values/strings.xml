@@ -1,0 +1,196 @@
+<resources>
+    <string name="app_name">reach.</string>
+    <string name="name">név.</string>
+    <string name="password">jelszó.</string>
+    <string name="login">bejelentkezés.</string>
+    <string name="bejelentkezes_google_fiokkal">google fiókkal.</string>
+    <string name="registration"> regisztráció. </string>
+    <string name="user_name">felhasználónév.</string>
+    <string name="email_address">e-mail cím.</string>
+    <string name="password_again">jelszó megerősítése.</string>
+    <string name="cancel">mégse.</string>
+    <string name="phone_number">telefonszám.</string>
+    <string name="address">cím.</string>
+    <string name="account_type">fiók típusa.</string>
+
+
+    <string-array name="orszagok">
+        <item>MAGYARORSZÁG</item>
+        <item>ANGLIA</item>
+        <item>AFGANISZTÁN</item>
+        <item>ALBÁNIA</item>
+        <item>ALGÉRIA</item>
+        <item>AMERIKAI EGYESÜLT ÁLLAMOK</item>
+        <item>ANDORRA</item>
+        <item>ANGOLA</item>
+        <item>ANTIGUA ÉS BARBUDA</item>
+        <item>ARAB EMÍRSÉGEK</item>
+        <item>ARGENTÍNA</item>
+        <item>AUSZTRÁLIA</item>
+        <item>AUSZTRIA</item>
+        <item>BAHAMA-SZIGETEK</item>
+        <item>BAHREIN</item>
+        <item>BANGLADES</item>
+        <item>BARBADOS</item>
+        <item>BELGIUM</item>
+        <item>BELIZE</item>
+        <item>BENIN</item>
+        <item>BHUTÁN</item>
+        <item>BISSAU-GUINEA</item>
+        <item>BOLÍVIA</item>
+        <item>BOTSWANA</item>
+        <item>BRAZÍLIA</item>
+        <item>BRUNEI</item>
+        <item>BULGÁRIA</item>
+        <item>BURKINA FASO</item>
+        <item>BURMA</item>
+        <item>BURUNDI</item>
+        <item>CHILE</item>
+        <item>CIPRUS</item>
+        <item>COMORE-SZIGETEK</item>
+        <item>COSTA RICA</item>
+        <item>CSÁD</item>
+        <item>CSEHSZLOVÁKIA</item>
+        <item>DÁNIA</item>
+        <item>DÉL-AFRIKAI KÖZTÁRSASÁG</item>
+        <item>DÉL-JEMEN</item>
+        <item>DÉL-KOREA</item>
+        <item>DOMINIKAI KÖZÖSSÉG</item>
+        <item>DOMINIKAI KÖZTÁRSASÁG</item>
+        <item>DZSIBUTI</item>
+        <item>ECUADOR</item>
+        <item>EGYENLÍTŐI GUINEA</item>
+        <item>EGYESÜLT KIRÁLYSÁG</item>
+        <item>EGYIPOM</item>
+        <item>ELEFÁNTCSONTPART</item>
+        <item>ETIÓPIA</item>
+        <item>ÉSZAK-KOREA</item>
+        <item>ÉSZAK-JEMEN</item>
+        <item>FIDZSI-SZIGETEK</item>
+        <item>FINNORSZÁG</item>
+        <item>FRANCIAORSZÁG</item>
+        <item>FÜLÖP-SZIGETEK</item>
+        <item>GABON</item>
+        <item>GAMBIA</item>
+        <item>GHÁNA</item>
+        <item>GÖRÖGORSZÁG</item>
+        <item>GRENADA</item>
+        <item>GUATEMALA</item>
+        <item>GUINEA</item>
+        <item>GUYANA</item>
+        <item>HAITI</item>
+        <item>HOLLANDIA</item>
+        <item>HONDURAS</item>
+        <item>INDIA</item>
+        <item>INDONÉZIA</item>
+        <item>IRAK</item>
+        <item>IRÁN</item>
+        <item>IZLAND</item>
+        <item>IZRAEL</item>
+        <item>ÍRORSZÁG</item>
+        <item>JAMAICA</item>
+        <item>JAPÁN</item>
+        <item>JEMEN</item>
+        <item>JORDÁNIA</item>
+        <item>JUGOSZLÁVIA</item>
+        <item>KAMBODZSA</item>
+        <item>KAMERUN</item>
+        <item>KANADA</item>
+        <item>KATAR</item>
+        <item>KÍNA</item>
+        <item>KIRIBATI</item>
+        <item>KOLUMBIA</item>
+        <item>KONGÓ</item>
+        <item>KÖZÉP-AFRIKAI KÖZTÁRSASÁG</item>
+        <item>KUBA</item>
+        <item>KUVAIT</item>
+        <item>LAOSZ</item>
+        <item>LENGYELORSZÁG</item>
+        <item>LESOTHO</item>
+        <item>LIBANON</item>
+        <item>LIBÉRIA</item>
+        <item>LÍBIA</item>
+        <item>LIECHTENSTEIN</item>
+        <item>LUXEMBURG</item>
+        <item>MADAGASZKÁR</item>
+        <item>MALAWI</item>
+        <item>MALAYSIA</item>
+        <item>MALDÍV-SZIGETEK</item>
+        <item>MALI</item>
+        <item>MÁLTA</item>
+        <item>MAROKKÓ</item>
+        <item>MAURITÁNIA</item>
+        <item>MAURITIUS</item>
+        <item>MEXIKÓ</item>
+        <item>MONACO</item>
+        <item>MONGÓLIA</item>
+        <item>MOZAMBIK</item>
+        <item>MYANMARI UNIÓ</item>
+        <item>NAGY-BRITANNIA</item>
+        <item>NAMÍBIA KÖZTÁRSASÁG</item>
+        <item>NAURU</item>
+        <item>NÉMETORSZÁG</item>
+        <item>NEPÁL</item>
+        <item>NICARAGUA</item>
+        <item>NIGER</item>
+        <item>NIGÉRIA</item>
+        <item>NORVÉGIA</item>
+        <item>NYUGAT-SZAMOA</item>
+        <item>NYUGAT-SZAHARA</item>
+        <item>OLASZORSZÁG</item>
+        <item>OMÁN</item>
+        <item>PAKISZTÁN</item>
+        <item>PANAMA</item>
+        <item>PÁPUA ÚJ-GUINEA</item>
+        <item>PARAGUAY</item>
+        <item>PERU</item>
+        <item>PORTUGÁLIA</item>
+        <item>ROMÁNIA</item>
+        <item>RUANDA</item>
+        <item>SAINT CHRISTOPHER ÉS NEVIS</item>
+        <item>SAINT LUCIA</item>
+        <item>SAINT VINCENT</item>
+        <item>SALAMON-SZIGETEK</item>
+        <item>SALVADOR</item>
+        <item>SAN MARINO</item>
+        <item>SĆO TOMÉ ÉS PRÍNCIPE</item>
+        <item>SEYCHELLE-SZIGETEK</item>
+        <item>SIERRA LEONE</item>
+        <item>SPANYOLORSZÁG</item>
+        <item>SRÍ LANKA</item>
+        <item>SURINAME</item>
+        <item>SVÁJC</item>
+        <item>SVÉDORSZÁG</item>
+        <item>SZAÚD-ARÁBIA</item>
+        <item>SZENEGÁL</item>
+        <item>SZINGAPÚR</item>
+        <item>SZÍRIA</item>
+        <item>SZOMÁLIA</item>
+        <item>SZUDÁN</item>
+        <item>SZVÁZIFÖLD</item>
+        <item>TANZÁNIA</item>
+        <item>THAIFÖLD</item>
+        <item>TOGO</item>
+        <item>TONGA</item>
+        <item>TÖRÖKORSZÁG</item>
+        <item>TRINIDAD ÉS TOBAGO</item>
+        <item>TUNÉZIA</item>
+        <item>TUVALU</item>
+        <item>UGANDA</item>
+        <item>ÚJ-ZÉLAND</item>
+        <item>URUGUAY</item>
+        <item>VANUATU</item>
+        <item>VATIKÁN</item>
+        <item>VENEZUELA</item>
+        <item>VIETNAM</item>
+        <item>ZAIRE</item>
+        <item>ZAMBIA</item>
+        <item>ZIMBABWE</item>
+        <item>ZÖLD-FOKI KÖZTÁRSASÁG</item>
+        <item>TAJVAN</item>
+    </string-array>
+
+
+    <string name="change_profile">profilkép megváltoztatása.</string>
+
+</resources>
